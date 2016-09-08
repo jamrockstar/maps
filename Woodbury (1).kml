@@ -4,7 +4,7 @@
 		<name>Woodbury</name>
 		<Placemark>
 			<name>P-3</name>
-			<description><![CDATA[name: P-3<br>description: Polling Location: Woodbury High School, 2665 Woodlane Drive<br>Polling Location: Woodbury High School, 2665 Woodlane Drive<br>OBJECTID_1: 3855<br>VTDID: 271630385<br>PCTNAME: Woodbury P-3<br>PCTCODE: 0385<br>MCDNAME: Woodbury<br>MCDCODE: 191<br>MCDFIPS: 71428<br>MCDGNIS: 02397369<br>CTU_TYPE: city<br>COUNTYNAME: Washington<br>COUNTYCODE: 82<br>COUNTYFIPS: 163<br>CONGDIST: 4<br>MNSENDIST: 53<br>MNLEGDIST: 53A<br>CTYCOMDIST: 5<br>JUDDIST: 10<br>SWCDIST: 4167<br>SWCDIST_N: Washington District 5<br>Shape_Leng: 7382.52896289000<br>Shape_Area: 3012636.93455999997]]></description>
+			<description><![CDATA[description: Polling Location: Woodbury High School, 2665 Woodlane Drive<br>]]></description>
 			<styleUrl>#poly-7C3592-1-76</styleUrl>
 			<ExtendedData>
 				<Data name='name'>
