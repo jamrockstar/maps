@@ -4,16 +4,7 @@
 		<name>Woodbury</name>
 		<Placemark>
 			<name>P-3</name>
-			<description><![CDATA[description: Polling Location: Woodbury High School, 2665 Woodlane Drive<br>]]></description>
 			<styleUrl>#poly-7C3592-1-76</styleUrl>
-			<ExtendedData>
-				<Data name='name'>
-					<value>P-3</value>
-				</Data>
-				<Data name='description'>
-					<value>Polling Location: Woodbury High School, 2665 Woodlane Drive</value>
-				</Data>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
