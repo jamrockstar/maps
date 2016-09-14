@@ -3,6 +3,16 @@
 <Document>
 	<name>Washington County District 5 final.kml</name>
 	<Style id="poly-A50000-2-76-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000a5</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c0000a5</color>
+		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
