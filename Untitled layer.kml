@@ -10,92 +10,70 @@
 		</Placemark>
 		<Placemark>
 			<name>P-4</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.9505157,44.9144925,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-5</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.9745483,44.9033075,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-6</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.9560091,44.8991734,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-8</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.9130937,44.9336964,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-9A</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.8801346,44.9366129,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-10</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.9360962,44.9030644,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-11</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.9168701,44.9144925,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-12</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.8938675,44.9091434,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-13A</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.8887177,44.9232444,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-15</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.9244232,44.8733892,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>P-16</name>
-			<styleUrl>#icon-1739-0288D1-nodesc</styleUrl>
 			<Point>
 				<coordinates>-92.8821945,44.8746057,0.0</coordinates>
 			</Point>
 		</Placemark>
-		<Style id='icon-1739-0288D1-nodesc'>
-			<IconStyle>
-				<color>ffD18802</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 	</Document>
 </kml>
